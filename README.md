@@ -1,6 +1,9 @@
 # Online2CrackedMC_PlrData
 ## Purpose
-The purpose of this project is to port minecraft multiplayer online playerdata files to cracked/offline playerdata, as there doesn't seem to be any standard way to do this at the moment.
+When a server is started in online mode, player data is stored using each player's online UUID. When online mode is toggled off, player data is stored using offline UUIDs that are generated based off of player username. When the change happens and an existing player joins the server, their inventory and all other information stored in playerdata appears to be wiped. In reality, it's just stored in a different UUID.
+
+The purpose of this project is to port minecraft multiplayer online playerdata files to cracked/offline playerdata.
+
 ## Instructions
 Follow the steps below to use the script for yourself
 
