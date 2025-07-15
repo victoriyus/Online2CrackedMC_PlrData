@@ -10,7 +10,7 @@ Follow the steps below to use the script for yourself
 
 1. Go to the latest release and download the .py file
 
-2. Move the .py file into your server's playerdata directory. On a vanilla minecraft server thid is usually server/world/playerdata/
+2. Move the .py file into your server's playerdata directory. On a vanilla minecraft server this is usually server/world/playerdata/
 
 3. Run the file and wait for the script to complete
 
